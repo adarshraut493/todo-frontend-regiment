@@ -66,7 +66,7 @@ npm install
 
 3. Create a `.env` file in the root directory:
 ```env
-VITE_API_BASE_URL=https://assignment.theregiment.in
+VITE_API_BASE_URL=https://assignment.theregiment.in/api/v1
 VITE_API_KEY=your-api-key-here
 ```
 
